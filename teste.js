@@ -1,1 +1,2 @@
 // codigo ejemplo
+function onload(){}
